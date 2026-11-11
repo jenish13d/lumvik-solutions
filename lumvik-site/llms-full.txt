@@ -1,0 +1,1379 @@
+# Lumvik Solutions: full site text
+
+Source: https://lumvik-solutions.vercel.app/  Updated: 2026-11-09
+
+---
+
+URL: https://lumvik-solutions.vercel.app/services.html
+Title: White-Label Web Development Services | Lumvik Solutions
+
+Lumvik / What we build
+
+# Everything we build.
+Four services, kept deliberately short so each one gets our full attention. Every project starts with a fixed quote. Start a project Estimate the cost
+Services Starting prices
+
+### Landing pages
+Campaign, offer and event pages built from your design, with your tracking and form wired up, ready the day your ads go live.
+From $249 Up to 8 sections
+
+### Business websites
+Multi-page marketing sites built from your designs: clean structure, fast pages and a handover your team can actually work with.
+From $599 Up to 5 pages
+
+### Redesigns
+We move dated or slow sites onto modern code while keeping the content, the URLs and the search rankings your client has earned.
+Quoted per site After a quick review
+
+### Overflow support
+When projects pile up, send the overflow to us. We work behind your brand, follow your process and hand back clean, documented code.
+Quoted per project White-label by default
+
+## What we don't do
+Saying this up front saves everyone time.
+- WordPress or Shopify builds
+- Large e-commerce stores with complex inventory
+- Brand identity and visual design from scratch
+- Paid ads, SEO campaigns or social media management
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/landing-pages.html
+Title: White-Label Landing Page Development | Lumvik Solutions
+
+Lumvik / What we build / Landing pages
+
+# Landing pages that load fast and convert.
+Campaign, offer and event pages built from your design, with your tracking and form wired up, ready the day your ads go live. Get a fixed quote Estimate the cost From $249 Up to 8 sections You own all the code
+The problem Sound familiar?
+
+## What agencies tell us
+- The campaign launches Monday and the page isn't built yet
+- Pages built in a page builder load slowly on phones
+- Forms that silently fail and lose leads
+
+## Who it's for
+- Agencies launching paid campaigns for clients
+- Teams with a finished design and a hard launch date
+- Clients whose current pages are slow on phones
+Scope From $249, up to 8 sections
+
+## What you get.
+
+### Included
+- Built pixel-close from your Figma, XD or PDF
+- Responsive on phone, tablet and desktop
+- Form connected to your email, CRM or webhook
+- Space for your tracking tags (GA4, Meta, LinkedIn)
+- Page title, description and social preview image
+- Two review rounds
+
+### Not included
+- Writing the copy or designing from scratch
+- Paid ad setup or management
+- Ongoing changes after the 14-day fix period
+Typical timeline Confirmed in your quote
+
+## How it runs, step by step.
+- Day 0
+
+### Brief and quote
+You send the design and copy; we reply with a fixed quote and date.
+- Day 1 to 2
+
+### First build
+Layout, content and responsive behaviour built and shared on a preview link.
+- Day 3
+
+### Forms and tracking
+Form wired to your inbox or CRM, tracking tags added, everything tested.
+- Day 3 to 5
+
+### Review and launch
+Two rounds of changes, then we deploy or hand over the code.
+Quality In every build
+
+## What every build includes.
+
+### Responsive
+Layouts checked at phone, tablet and desktop widths, with no sideways scrolling and tap targets sized for thumbs.
+
+### Fast
+Compressed images, minimal scripts and no heavy page builders. We check page speed before you see the first preview.
+
+### Accessible
+Semantic markup, visible keyboard focus, readable contrast and form errors that screen readers announce.
+
+### Search-ready
+Unique page titles and descriptions, a sitemap, robots.txt, social preview images and redirects for any changed URLs.
+
+### Forms that work
+Every form is submitted and checked end to end, so enquiries reach the right inbox or CRM from launch day.
+
+### Clean handover
+Readable code in your repository, deployed to your hosting, with a short note on how to make common edits.
+Working together Communication
+
+## How we work with your team.
+
+### How we stay in touch
+- Email or Slack, whichever your team already uses
+- A written update at the end of every working day
+- Replies to messages within one working day, usually much faster
+- A private preview link that always shows the latest build
+
+### What we need from you
+- The design file or a reference, and the final copy
+- Brand assets: logo, fonts, photos and icons
+- Where the site should live and who owns the domain
+- One person on your side who can approve changes
+Questions All answers
+
+## Before you ask.
+How fast can a landing page be ready?
+Most single pages are ready for review within a few working days of an agreed brief. We confirm the exact date in the quote.
+Can you add A/B test variants?
+Yes. Each extra variant of an existing page is quoted at a reduced rate because the structure already exists.
+Where will it be hosted?
+On your hosting, your client's, or a free Vercel project we set up and transfer to you.
+Can you build several pages for one campaign?
+Yes. Each extra page that reuses the same design system is quoted at a reduced rate.
+Do you write the copy?
+No. We build from your copy. If a section is missing text, we'll flag it in the quote rather than guess.
+Will it work with our ad platforms?
+Yes. We add your Google, Meta or LinkedIn tags and check they fire before launch.
+Other services What else we build
+
+### Business websites
+Multi-page marketing sites built from your designs: clean structure, fast pages and a handover your team can actually work with. Learn more
+
+### Redesigns
+We move dated or slow sites onto modern code while keeping the content, the URLs and the search rankings your client has earned. Learn more
+
+### Overflow support
+When projects pile up, send the overflow to us. Learn more
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/business-websites.html
+Title: White-Label Website Development for Agencies | Lumvik
+
+Lumvik / What we build / Business websites
+
+# Business websites your clients can be proud of.
+Multi-page marketing sites built from your designs: clean structure, fast pages and a handover your team can actually work with. Get a fixed quote Estimate the cost From $599 Up to 5 pages You own all the code
+The problem Sound familiar?
+
+## What agencies tell us
+- A great design stuck in the queue because your developer is booked
+- Sites that look right on desktop and fall apart on phones
+- Handovers with no notes, so every small change needs a developer
+
+## Who it's for
+- Agencies with more website projects than developer hours
+- Clients replacing an outdated site with a new design
+- Teams that want a clean handover they can maintain
+Scope From $599, up to 5 pages
+
+## What you get.
+
+### Included
+- Up to 5 pages with shared navigation and footer
+- Responsive layouts tested at phone and desktop widths
+- Contact form connected to email or CRM
+- Page titles, descriptions, sitemap and robots.txt
+- Basic speed and accessibility checks
+- Two review rounds and 14 days of fixes
+- A short handover note on how to edit content
+
+### Not included
+- Brand or visual design from scratch
+- Copywriting
+- E-commerce with complex inventory
+- Hosting and domain fees
+Typical timeline Confirmed in your quote
+
+## How it runs, step by step.
+- Week 1, day 1
+
+### Brief and quote
+Design files, copy and hosting details in; fixed quote and date out.
+- Week 1
+
+### Templates and homepage
+Shared navigation, footer and the homepage built first, so you can review the system early.
+- Week 1 to 2
+
+### Inner pages
+Remaining pages built from the agreed templates, with forms and SEO basics.
+- Week 2
+
+### Review, test and launch
+Two review rounds, a full launch checklist, then deployment and handover.
+Quality In every build
+
+## What every build includes.
+
+### Responsive
+Layouts checked at phone, tablet and desktop widths, with no sideways scrolling and tap targets sized for thumbs.
+
+### Fast
+Compressed images, minimal scripts and no heavy page builders. We check page speed before you see the first preview.
+
+### Accessible
+Semantic markup, visible keyboard focus, readable contrast and form errors that screen readers announce.
+
+### Search-ready
+Unique page titles and descriptions, a sitemap, robots.txt, social preview images and redirects for any changed URLs.
+
+### Forms that work
+Every form is submitted and checked end to end, so enquiries reach the right inbox or CRM from launch day.
+
+### Clean handover
+Readable code in your repository, deployed to your hosting, with a short note on how to make common edits.
+Working together Communication
+
+## How we work with your team.
+
+### How we stay in touch
+- Email or Slack, whichever your team already uses
+- A written update at the end of every working day
+- Replies to messages within one working day, usually much faster
+- A private preview link that always shows the latest build
+
+### What we need from you
+- The design file or a reference, and the final copy
+- Brand assets: logo, fonts, photos and icons
+- Where the site should live and who owns the domain
+- One person on your side who can approve changes
+Questions All answers
+
+## Before you ask.
+Can our team edit the content after launch?
+Yes. We can add a simple editable content area or blog, priced in the estimator, or hand over clean code your developers can edit.
+Do you build on WordPress?
+Not currently. We build in Next.js or clean HTML. If your client must stay on WordPress, we're not the right fit for that project.
+What do you need to start?
+The design files, final copy, brand assets, and where the site should live.
+How many pages can you build?
+The starting price covers up to 5 pages. Larger sites are quoted from the brief, with extra template-based pages from $90 each.
+Can you match our client's brand exactly?
+Yes, from the design file. We use the exact fonts, colours and spacing in the design, provided the font licences allow web use.
+Do you handle hosting?
+We deploy to your hosting or your client's. If there isn't any, we can set up a free Vercel project and transfer it to you.
+Other services What else we build
+
+### Landing pages
+Campaign, offer and event pages built from your design, with your tracking and form wired up, ready the day your ads go live. Learn more
+
+### Redesigns
+We move dated or slow sites onto modern code while keeping the content, the URLs and the search rankings your client has earned. Learn more
+
+### Overflow support
+When projects pile up, send the overflow to us. Learn more
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/redesigns.html
+Title: Website Redesign Development for Agencies | Lumvik
+
+Lumvik / What we build / Redesigns
+
+# Rebuild a slow site without losing what works.
+We move dated or slow sites onto modern code while keeping the content, the URLs and the search rankings your client has earned. Get a fixed quote Estimate the cost Quoted per site After a quick review You own all the code
+The problem Sound familiar?
+
+## What agencies tell us
+- A site that takes seconds to load on a phone
+- A theme nobody dares to update
+- Fear of losing Google rankings during a rebuild
+
+## Who it's for
+- Clients whose site is slow, dated or hard to update
+- Agencies taking over a site built by someone else
+- Brands refreshing their look without losing search traffic
+Scope Quoted per site, after a quick review
+
+## What you get.
+
+### Included
+- Review of the current site and a page-by-page plan
+- Rebuild from your new design or a cleaned-up version of the current one
+- Same URLs, or redirects mapped for any that change
+- Page titles and descriptions carried over
+- Before-and-after check on phones and desktops
+
+### Not included
+- Content rewriting
+- SEO campaigns or link building
+- Migrating large online stores
+Typical timeline Confirmed in your quote
+
+## How it runs, step by step.
+- Days 1 to 2
+
+### Review and plan
+We audit the current site, list every page and URL, and send a fixed quote.
+- Week 1
+
+### Rebuild
+New templates built from your design, with existing content moved across.
+- Week 2
+
+### Redirects and checks
+URLs matched or redirected, titles and descriptions carried over, speed checked.
+- Launch
+
+### Switch over
+We go live at a quiet time and watch for broken links in the first days.
+Quality In every build
+
+## What every build includes.
+
+### Responsive
+Layouts checked at phone, tablet and desktop widths, with no sideways scrolling and tap targets sized for thumbs.
+
+### Fast
+Compressed images, minimal scripts and no heavy page builders. We check page speed before you see the first preview.
+
+### Accessible
+Semantic markup, visible keyboard focus, readable contrast and form errors that screen readers announce.
+
+### Search-ready
+Unique page titles and descriptions, a sitemap, robots.txt, social preview images and redirects for any changed URLs.
+
+### Forms that work
+Every form is submitted and checked end to end, so enquiries reach the right inbox or CRM from launch day.
+
+### Clean handover
+Readable code in your repository, deployed to your hosting, with a short note on how to make common edits.
+Working together Communication
+
+## How we work with your team.
+
+### How we stay in touch
+- Email or Slack, whichever your team already uses
+- A written update at the end of every working day
+- Replies to messages within one working day, usually much faster
+- A private preview link that always shows the latest build
+
+### What we need from you
+- The design file or a reference, and the final copy
+- Brand assets: logo, fonts, photos and icons
+- Where the site should live and who owns the domain
+- One person on your side who can approve changes
+Questions All answers
+
+## Before you ask.
+Will the client lose their rankings?
+We keep URLs the same where possible and set up redirects where they change, which is what protects rankings in a rebuild. We can't promise rankings, as Google decides those.
+Can you work from the existing site with no new design?
+Yes. We can rebuild the current look on faster code, with small improvements we agree up front.
+Can you keep our client's existing content?
+Yes. We move the existing text and images across and tidy formatting as we go.
+What happens to old URLs?
+We keep them where possible and set up permanent redirects where they change, so links and search rankings carry over.
+Other services What else we build
+
+### Landing pages
+Campaign, offer and event pages built from your design, with your tracking and form wired up, ready the day your ads go live. Learn more
+
+### Business websites
+Multi-page marketing sites built from your designs: clean structure, fast pages and a handover your team can actually work with. Learn more
+
+### Overflow support
+When projects pile up, send the overflow to us. Learn more
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/overflow-support.html
+Title: Overflow Web Development Support for Agencies | Lumvik
+
+Lumvik / What we build / Overflow support
+
+# Extra development hands when your team is full.
+When projects pile up, send the overflow to us. We work behind your brand, follow your process and hand back clean, documented code. Get a fixed quote Estimate the cost Quoted per project White-label by default You own all the code
+The problem Sound familiar?
+
+## What agencies tell us
+- Saying no to clients because developers are booked
+- Freelancers who disappear mid-project
+- Paying a full-time salary for part-time demand
+
+## Who it's for
+- Agencies turning down work because developers are booked
+- Teams with seasonal peaks in website projects
+- Studios that need reliable white-label help without hiring
+Scope Quoted per project, white-label by default
+
+## What you get.
+
+### Included
+- One project at a time or a regular monthly arrangement
+- Work inside your repository, process and tools
+- Daily written updates
+- White-label: no contact with your client unless you ask
+- NDA on request
+
+### Not included
+- On-site work
+- 24/7 on-call support
+- Projects outside web front-end development
+Typical timeline Confirmed in your quote
+
+## How it runs, step by step.
+- Week 0
+
+### Trial project
+One small, paid project to test quality and communication.
+- Week 1
+
+### Set-up
+Access to your repo, tools and process; a shared channel for updates.
+- Ongoing
+
+### Regular capacity
+An agreed number of projects or days per month at a fixed rate.
+- Monthly
+
+### Review
+A short check-in on what's working, upcoming work and capacity.
+Quality In every build
+
+## What every build includes.
+
+### Responsive
+Layouts checked at phone, tablet and desktop widths, with no sideways scrolling and tap targets sized for thumbs.
+
+### Fast
+Compressed images, minimal scripts and no heavy page builders. We check page speed before you see the first preview.
+
+### Accessible
+Semantic markup, visible keyboard focus, readable contrast and form errors that screen readers announce.
+
+### Search-ready
+Unique page titles and descriptions, a sitemap, robots.txt, social preview images and redirects for any changed URLs.
+
+### Forms that work
+Every form is submitted and checked end to end, so enquiries reach the right inbox or CRM from launch day.
+
+### Clean handover
+Readable code in your repository, deployed to your hosting, with a short note on how to make common edits.
+Working together Communication
+
+## How we work with your team.
+
+### How we stay in touch
+- Email or Slack, whichever your team already uses
+- A written update at the end of every working day
+- Replies to messages within one working day, usually much faster
+- A private preview link that always shows the latest build
+
+### What we need from you
+- The design file or a reference, and the final copy
+- Brand assets: logo, fonts, photos and icons
+- Where the site should live and who owns the domain
+- One person on your side who can approve changes
+Questions All answers
+
+## Before you ask.
+How does a monthly arrangement work?
+We agree a set number of days or projects per month at a fixed rate, so you can plan capacity. Start with one project first if you prefer.
+Can you work in our GitHub and Slack?
+Yes. We'll work wherever your team already works.
+Do you follow our coding standards?
+Yes. Send your conventions, linting rules or an example repo and we'll match them.
+What if we need to pause?
+Monthly arrangements can be paused or ended with notice, with no penalties.
+Other services What else we build
+
+### Landing pages
+Campaign, offer and event pages built from your design, with your tracking and form wired up, ready the day your ads go live. Learn more
+
+### Business websites
+Multi-page marketing sites built from your designs: clean structure, fast pages and a handover your team can actually work with. Learn more
+
+### Redesigns
+We move dated or slow sites onto modern code while keeping the content, the URLs and the search rankings your client has earned. Learn more
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/agencies.html
+Title: Outsourced Web Development for Agencies | Lumvik Solutions
+
+Lumvik / For agencies
+
+# Your brand on the front. Our code behind it.
+You keep the client, the relationship and the margin. We handle the build quietly, on scope and on the date we agree. Send a brief See pricing
+The arrangement White-label
+
+## What you can count on.
+
+### Confidentiality
+- We never contact your client unless you ask us to
+- No Lumvik credits in the site, code or files
+- We'll sign your NDA, or use ours
+
+### Ownership
+- All code and assets are yours once paid
+- Delivered to your GitHub, your hosting or as a zip
+- No lock-in and no ongoing license fees
+
+### Communication
+- One named lead from brief to handover, never an account manager
+- A written update at the end of every working day
+- Email or Slack, whichever your team uses
+
+### Quality checks
+- Tested at phone and desktop widths before you see it
+- Accessible markup, keyboard support and readable contrast
+- Page titles, descriptions and basic SEO in place
+Why agencies choose us Six reasons
+
+## Why agencies work with us.
+
+### Fixed price, before we start
+You get one written quote with the scope, price and delivery date. It doesn't change unless you change the scope, so you can quote your client with confidence.
+
+### Invisible to your client
+No Lumvik name in the code, footer or files, and we never contact your client. Your agency stays the face of the project from start to finish.
+
+### Work that moves overnight
+Our India team works through the US night. Send feedback at the end of your day and find progress waiting in the morning, instead of losing a day per round.
+
+### A named lead, not a ticket queue
+One person owns your project from brief to handover and sends a written update every working day. You always know what's done and what's next.
+
+### Code you own outright
+Clean, readable code in your own repository or hosting once the invoice is paid. No lock-in, no licence fees, no developer you depend on forever.
+
+### Small first project, low risk
+Start with one landing page. If the quality or communication isn't right, you've lost very little, and you've learned it in a week.
+Process Brief to handover
+
+## The same five steps, every project.
+-
+
+### Brief
+Send the design file, copy and any must-haves. Figma, a PDF or a rough sketch all work.
+-
+
+### Quote
+Scope, price and a delivery date agreed in writing before any work starts.
+-
+
+### Build
+Built in Next.js or clean HTML, with progress on a private preview link.
+-
+
+### Review
+You check it on desktop and phone. Two rounds of changes are included.
+-
+
+### Handover
+Deployed to your hosting or handed over as code. Yours, unbranded.
+Working together Communication
+
+## How we work with your team.
+
+### How we stay in touch
+- Email or Slack, whichever your team already uses
+- A written update at the end of every working day
+- Replies to messages within one working day, usually much faster
+- A private preview link that always shows the latest build
+
+### What we need from you
+- The design file or a reference, and the final copy
+- Brand assets: logo, fonts, photos and icons
+- Where the site should live and who owns the domain
+- One person on your side who can approve changes
+Quality In every build
+
+## What every build includes.
+
+### Responsive
+Layouts checked at phone, tablet and desktop widths, with no sideways scrolling and tap targets sized for thumbs.
+
+### Fast
+Compressed images, minimal scripts and no heavy page builders. We check page speed before you see the first preview.
+
+### Accessible
+Semantic markup, visible keyboard focus, readable contrast and form errors that screen readers announce.
+
+### Search-ready
+Unique page titles and descriptions, a sitemap, robots.txt, social preview images and redirects for any changed URLs.
+
+### Forms that work
+Every form is submitted and checked end to end, so enquiries reach the right inbox or CRM from launch day.
+
+### Clean handover
+Readable code in your repository, deployed to your hosting, with a short note on how to make common edits.
+Compared Your options
+
+## Lumvik, a freelancer or a new hire?
+| | Lumvik | Freelance marketplace | Hiring in-house
+| Price | Fixed quote per project | Varies widely; hourly is common | Full salary, benefits and tools
+| Time to start | Quote within one working day | Days of interviews and trials | Weeks to months to hire
+| White-label | By default, NDA on request | Depends on the person | Yes
+| Cover when someone is away | A small team behind every project | Usually one person | Depends on team size
+| Updates | Written, every working day | Depends on the person | Daily, in person
+| Cost when there's no work | Nothing | Nothing | Full salary
+Fit Honest about it
+
+## Who we're right for.
+
+### We're a good fit for
+- Agencies with more design work than development hours
+- Landing pages and marketing sites from a finished design
+- Teams that want to try a partner with one small project first
+
+### We're not the right fit for
+- Large e-commerce builds with complex inventory
+- Enterprise systems with strict compliance needs
+- Projects that need someone on-site
+Questions Partnership
+
+## Partnership questions.
+Can we start with a small test project?
+Yes, and we recommend it. Send one landing page; if the quality and communication work for you, we take it from there.
+What do you need from us to start?
+A design file or reference, the copy, any brand assets, and where the site should live. If something's missing, we'll say what in the quote.
+Which tools and platforms do you build with?
+Mostly Next.js, React and Tailwind, deployed on Vercel. We can also deliver clean static HTML. We don't currently build on WordPress or Shopify.
+How are changes handled?
+Two review rounds are included in every quote. New features beyond the agreed scope are quoted separately before we start them.
+How do we pay?
+By international bank transfer or PayPal, invoiced in US dollars. 50% upfront and 50% on handover.
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/pricing.html
+Title: White-Label Web Development Pricing | Lumvik Solutions
+
+Lumvik / Pricing
+
+# Real starting prices. Fixed quotes.
+After reading your brief, we send one fixed price and a delivery date, and that number doesn't change unless the scope does. Not sure what you need? Estimate the cost .
+Packages USD
+(01) Typically 3 to 5 working days
+
+### Landing page
+$249 and up
+- Up to 8 sections from your design
+- Responsive on phone, tablet and desktop
+- Form wired to your email or CRM
+- Two review rounds
+Best for campaign launches and single offers. Request a quote
+(02) Typically 1 to 2 weeks
+
+### Business website
+$599 and up
+- Up to 5 pages with shared navigation
+- Page titles, descriptions and sitemap
+- Speed and accessibility checks
+- Two review rounds and 14 days of fixes
+Best for a client's main marketing site. Request a quote
+(03) Ongoing or one-off
+
+### Overflow support
+Per project
+- Single builds or a monthly arrangement
+- Works inside your repo and tools
+- Daily written updates
+- White-label by default
+Best when your developers are fully booked. Request a quote
+Add-ons Clear prices
+
+## Add only what you need.
+The same prices the cost estimator uses, so the range you see there matches your quote.
+| Add-on | Price | Notes
+| Extra landing page section | $30 each | Beyond the 8 included
+| Extra website page | $90 each | Beyond the 5 included, using existing templates
+| Form or integration | $50 each | CRM, newsletter, booking tool or webhook
+| Blog or editable content area | $200 | Lets your team publish without a developer
+| Extra language | $120 each | You supply the translated copy
+| Rush delivery | +25% | Under 3 working days, when we have capacity
+| Support after the 14 days | Quoted monthly | Fixes, small changes and updates
+Payment How it works
+
+## Simple, predictable payment.
+
+### How you pay
+- Invoiced in US dollars
+- 50% to start, 50% on handover
+- Larger projects split into milestones
+- International bank transfer or PayPal
+
+### If the scope changes
+- We tell you before doing anything outside the quote
+- New work is priced in writing first
+- You decide whether to add it now or later
+- No surprise invoices, ever
+The small print Plain English
+
+## What's in, what's out.
+
+### Every quote includes
+- Written scope and delivery date
+- Private preview link during the build
+- Full code handover once paid
+- 14 days of fixes after launch
+
+### Not included unless agreed
+- Domain names and hosting fees
+- Paid plugins, fonts or third-party services
+- Copywriting and new design work
+- Ongoing maintenance after the 14 days
+Timelines are typical and confirmed in each quote.
+Questions Pricing
+
+## Pricing questions.
+Why do you publish prices?
+So you can tell quickly whether we fit your budget, and quote your own client with confidence before even talking to us.
+Are these prices final?
+They're starting points. After reading your brief we send one fixed price, which only changes if the scope changes.
+Do you offer agency rates for regular work?
+Yes. Agencies sending regular projects can agree a monthly arrangement with a lower per-project rate.
+What if we're not happy with the work?
+Two review rounds are included, and we fix anything that doesn't match the agreed scope for 14 days after launch. Starting with a small project keeps your risk low.
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/estimator.html
+Title: Website Cost Estimator for Agencies | Lumvik Solutions
+
+Lumvik / Cost estimator
+
+# Estimate your project.
+Answer a few quick questions for a price range. It updates as you choose. Your final fixed quote comes after we read the brief. What are we building? Landing page Business website Redesign How many pages? 1 Is the design ready? Yes, design is ready Not yet Forms or integrations (CRM, newsletter, booking) None 1 2 3 or more Editable blog or content area? No Yes Extra languages English only 1 more 2 more Need it in under 3 working days? No Yes, rush it
+Estimated range
+–
+Design isn't included in these prices. Send what you have, a wireframe, a reference site or a sketch, and we'll quote the layout work separately. Email this estimate
+An estimate, not a quote. Hosting, domains and paid services are extra.
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/answers.html
+Title: White-Label Web Development FAQ | Lumvik Solutions
+
+Lumvik / Answers
+
+# Straight answers.
+Straight answers to what agencies ask before working with us. Can't find yours? Email us .
+
+## Working together
+Who does the work?
+A small team: Jay, our founder, leads every project, working with engineers from NIT Rourkela and IIT Goa and developers in the US. Your project has one named lead from brief to handover. We use modern tools, including AI-assisted coding, to move faster, and every change is written or reviewed by an engineer before you see it.
+Will my client know you built it?
+No. We never contact your client, never add our name to the site or code, and are happy to sign your NDA.
+Can we start with a small test project?
+Yes, and we recommend it. Send one landing page and judge the quality and communication yourself.
+How do we communicate?
+By email or Slack, whichever your team uses. You get a written update at the end of every working day.
+What hours do you work?
+Indian working hours, which run through the US evening and night. Send feedback at the end of your day and progress is usually waiting in the morning.
+
+## Pricing and payment
+How is a project priced?
+From the brief. We send a fixed quote with a delivery date, and that number doesn't change unless the scope does. Use the cost estimator for a quick range.
+How do we pay?
+Invoiced in US dollars, by international bank transfer or PayPal. 50% to start and 50% on handover.
+What isn't included?
+Domains, hosting fees, paid plugins or fonts, copywriting, new design work, and maintenance after the 14-day fix period, unless agreed in the quote.
+
+## Code and quality
+Who owns the code?
+You do, in full, once the final invoice is paid. We hand over the repository or deploy to your hosting.
+What do you build with?
+Mostly Next.js, React and Tailwind CSS, deployed on Vercel, or clean static HTML. We don't currently build on WordPress or Shopify.
+How do you check quality?
+Every build is tested at phone and desktop widths, checked for keyboard access and readable contrast, and run through our launch checklist before you see it.
+What if something breaks after launch?
+Every build includes 14 days of free fixes for anything that doesn't match the agreed scope.
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/about.html
+Title: About Lumvik Solutions | White-Label Web Development Studio
+
+Lumvik / About
+
+# Small team. Direct line.
+Lumvik Solutions is a founder-led web development studio with engineers in India and the US. The people who answer your email are the people building your site.
+Who you work with Founder-led J . No account managers. No handoffs. You talk to the people writing your code.
+Jay, founder of Lumvik SolutionsI read every brief and lead every project, working with engineers from NIT Rourkela and IIT Goa and developers in the US. You get daily updates, and if something is going to slip, you hear it from me first. Start with one small project and judge for yourself.
+The team India and the US
+
+## The people behind your build.
+
+### Jay
+Founder. Reads every brief, scopes and prices the work, and leads each project from quote to handover.
+
+### Engineers in India
+Developers from NIT Rourkela and IIT Goa who build and test the work, mostly while your team is offline.
+
+### Developers in the US
+Collaborators who overlap with your working day for reviews and quick questions.
+How we work Principles
+
+## Why Lumvik exists
+Plenty of agencies have strong designs and happy clients but not enough development hours, so builds wait in a queue. Lumvik exists to be the reliable extra pair of hands, working while your team is offline.
+- We say no to work we can't do well
+- We put scope, price and dates in writing
+- We never claim results we haven't delivered
+- We tell you early if something slips
+At a glance Facts
+
+## Lumvik Solutions in brief.
+Lumvik Solutions is a white-label web development studio. Agencies send a design and copy; Lumvik builds the landing page, website or redesign under the agency's name, for a fixed price agreed before work starts.
+- Founded | 2026, by Jay
+- Team | Engineers in India (NIT Rourkela and IIT Goa) and developers in the US
+- Works with | Design, marketing and branding agencies in the US, UK, Canada, Australia and Europe
+- Builds | Landing pages, business websites, redesigns and overflow development
+- Stack | Next.js, React, TypeScript and Tailwind CSS, deployed on Vercel, or clean static HTML
+- Prices | Landing pages from $249, websites from $599, fixed quote in US dollars
+- Contact | lumvik.solutions@gmail.com , reply within one working day
+The name Lumvik
+
+## Light Unified Machine, Virtual Intelligence Kernel.
+In plain terms: light, fast websites on the outside, solid engineering underneath. Built with Next.js, React, TypeScript, Tailwind CSS, Vercel and GitHub.
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/contact.html
+Title: Start a Project | Get a Fixed Web Development Quote | Lumvik
+
+Lumvik / Start a project
+
+# Tell us what you're building.
+You don't need to know which service it is. Say what the site has to do, and you'll get one fixed price and a delivery date, usually within one working day.
+Your brief Takes two minutes Your name Agency or company Work email Website Project typeLanding pageBusiness websiteRedesignOverflow supportSomething else BudgetUnder $500$500 to $1,500$1,500 to $5,000Not sure yet TimelineThis weekWithin 2 weeksThis monthFlexible Project details
+This opens your email app with the brief filled in, addressed to lumvik.solutions@gmail.com. Press send there.
+Your email app should now be open with the brief ready to send.
+
+## Prefer plain email? lumvik.solutions@gmail.com Copied
+Attach a design file or link and mention your deadline. We reply within one working day.
+
+---
+
+URL: https://lumvik-solutions.vercel.app/work.html
+Title: Web Development Work and Case Studies | Lumvik Solutions
+
+Lumvik / Work
+
+# Shipped. And labelled honestly.
+A live product we built and run, and a concept site built to client standard. Client work appears here once we have permission to show it.
+Selected work Proof Our own product
+
+### Slidezza
+An AI presentation maker we designed, built and run. Describe a topic and it plans an editable outline, then writes and designs the deck card by card.
+- Accounts, credits and Stripe subscription billing
+- 7 card layouts, switchable themes and present mode
+- Share links and PDF export
+- Next.js, Prisma and the Claude API Read the case Visit Slidezza Concept site
+
+### Northpeak Marketing
+A complete website for a fictional Austin marketing agency, built to the standard we deliver for agency clients.
+- Next.js, TypeScript and Tailwind, on Vercel
+- Mobile menu, case study, FAQ and validated enquiry form
+- No layout overflow from 375px phones to wide desktops
+- 44px touch targets and full keyboard support Read the case Open the live site
+Real output Made by Slidezza
+
+## A deck Slidezza made in minutes.
+Topic typed: how solar panels work, for homeowners thinking of going solar. Shown exactly as it came out of the app. Open the full 9-slide PDF Read the Slidezza case
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/work-slidezza.html
+Title: Slidezza Case Study: Next.js SaaS Build | Lumvik Solutions
+
+Lumvik / Work / Slidezza
+
+# Slidezza. A deck from a sentence.
+Making a presentation takes hours, and most AI deck tools invent numbers. We built Slidezza to plan a deck you can edit before anything is written, then write and design it card by card. Visit Slidezza See a real deck it made
+7
+Card layouts
+Title, section, bullets, columns, big numbers, quote and timeline, picked per card.
+3
+Cards at a time
+Cards are written in parallel and appear one by one. A failed card never sinks the deck.
+$12
+Pro plan, monthly
+Free and Pro plans with monthly credits, billed through Stripe subscriptions.
+1
+Click to change theme
+Every card in the deck updates at once.
+- Client | Our own product
+- Sector | AI · Productivity
+- Type | SaaS web app
+- Status | Live
+(01) The problem
+
+## Hours of formatting, and numbers nobody checked.
+People spend more time arranging slides than thinking about what to say. AI tools speed that up but tend to write a whole deck in one go, so a bad structure gets baked in, and figures appear with no source.
+(02) What we built
+
+## Outline first, then the deck, card by card.
+- Prompt to outline: users rename, reorder, add or cut cards before anything is written
+- Cards generate three at a time and appear live; reloading resumes unfinished cards
+- Seven layouts chosen per card, with switchable themes and full-screen present mode
+- Edit any card, or regenerate it with instructions
+- View-only share links and PDF export, one 16:9 card per page
+- Accounts, monthly credits, quality modes, and Stripe Checkout, portal and webhooks
+(03) The stack
+
+## Small, typed and tested.
+Next.js and TypeScript on the front and back end, Prisma for data, Zod for validated AI output, the Claude API for writing, Stripe for billing and Vitest for tests. Credit charges are atomic, so parallel requests can't overspend.
+More slides Shown as generated Open the full 9-slide PDF Next case: Northpeak Marketing
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/work-northpeak.html
+Title: Northpeak Demo: Marketing Agency Website | Lumvik
+
+Lumvik / Work / Northpeak Marketing
+
+# Northpeak. Built to make the phone ring.
+A concept site for a fictional Austin agency that markets HVAC, plumbing and healthcare businesses. We built it the way we'd build for a client, so you can judge our standard before you hire us. Open the live site Start a project
+3
+Screen sizes tested
+Phones from 375px, tablets and wide desktops, with no sideways scrolling.
+44px
+Minimum tap target
+Menu, FAQ and form controls sized for thumbs.
+0
+Console errors
+Clean in production, with TypeScript, lint and build all passing.
+1
+Page, every answer
+Services, proof, process, FAQ and enquiry on a single scroll.
+- Client | Concept project
+- Sector | Marketing agency
+- Type | Next.js website
+- Status | Live
+(01) The brief
+
+## Owners of service businesses are busy. Get to the point.
+An HVAC owner checking an agency site on a phone between jobs needs three answers fast: what you do, whether it works, and how to start. Everything else is noise.
+(02) What we built
+
+## Proof first, then the ask.
+- A live-looking lead panel in the hero, so the value shows before scrolling
+- A case study with results, clearly labelled as illustrative demo data
+- A three-step process and an FAQ answering the objections owners raise most
+- An enquiry form with inline, screen-reader friendly errors
+- A full mobile menu that keeps every section one tap away
+(03) Checks before launch
+
+## Nothing ships until it passes.
+TypeScript, lint and production build all passing; layouts checked at 375px and 1440px; keyboard focus visible on every control; and every illustrative number clearly marked, because we never present demo data as real results. Next case: Slidezza
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/guides.html
+Title: Guides for Agencies Outsourcing Web Development | Lumvik
+
+Lumvik / Guides
+
+# Guides for agencies.
+Practical notes for agencies working with outside developers, written from how we run our own projects.
+
+### How to brief a white-label developer
+What to send so the quote is accurate and the build matches the design the first time. Read the guide
+
+### Website launch checklist for agencies
+The checks to run before a client site goes live, so launch day is quiet. Read the guide
+
+### Working with an offshore developer: what to agree up front
+How agencies can get the cost and time-zone benefits of an offshore partner without the usual problems. Read the guide
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/guide-briefing.html
+Title: How to Brief a White-Label Web Developer | Lumvik
+
+Lumvik / Guides / How to brief a white-label developer
+
+# How to brief a white-label developer
+What to send so the quote is accurate and the build matches the design the first time.
+By Jay, founder of Lumvik Solutions · November 2026
+Most delays in outsourced web projects come from the brief, not the build. A developer working from a vague brief has to guess, and every guess becomes a revision round. Here is what to include so the quote is accurate and the first version is close to final.
+
+## 1. The design, at every width you care about
+Send the design file itself (Figma, Adobe XD or a PDF), not screenshots. If you only have a desktop design, say how you expect the mobile layout to behave, or agree that the developer will adapt it sensibly and show you before going further.
+
+## 2. Final copy and assets
+Placeholder text hides layout problems: a real headline may wrap onto three lines where the dummy one fit on one. Send final copy where you can, plus logos, photos and icons in their original formats.
+
+## 3. What every form and button should do
+- Where form submissions go: an email address, a CRM, a webhook
+- Which buttons link where, including external booking or payment tools
+- Any tracking tags that must be on the page from launch
+
+## 4. Where the site will live
+Name the hosting, who owns the domain, and whether the developer should deploy or just hand over the code. This avoids last-day surprises with access and DNS.
+
+## 5. The deadline, and whether it's real
+Say whether the date is fixed (a campaign launch) or flexible. A good partner will tell you straight away if it's achievable. Short on time? Send the design file, the copy and the deadline. Those three answer most questions. Our brief form covers the rest.
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/guide-launch-checklist.html
+Title: Website Launch Checklist for Agencies | Lumvik
+
+Lumvik / Guides / Website launch checklist for agencies
+
+# Website launch checklist for agencies
+The checks to run before a client site goes live, so launch day is quiet.
+By Jay, founder of Lumvik Solutions · November 2026
+Launch problems are almost always small things nobody checked: a form going to an old inbox, a missing redirect, a page title still saying "Home". Run through this list before every client launch.
+
+## Content and links
+- No placeholder text or images left anywhere
+- Every internal link and button goes where it should
+- Phone numbers and emails are correct and clickable
+- Legal pages (privacy, terms, cookies) exist where required
+
+## Forms
+- Submit every form once and confirm the message actually arrives
+- Errors are clear when a field is missing or wrong
+- Thank-you message or page appears only after a successful send
+
+## Phones and browsers
+- Check on a real phone, not only a resized desktop window
+- No sideways scrolling on any page
+- Buttons are big enough to tap comfortably
+- Test in Chrome and Safari at a minimum
+
+## Search and sharing
+- Every page has its own title and description
+- A sitemap and robots.txt exist and allow indexing
+- Redirects are in place for any old URLs that changed
+- Sharing a link shows the right title and preview image
+
+## Handover
+- The client or agency owns the domain and hosting accounts
+- Code is in a repository the agency controls
+- A short note explains how to make common edits Every Lumvik build goes through this list before you see it. See how we work with agencies .
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/guide-offshore.html
+Title: Working With an Offshore Web Developer | Lumvik
+
+Lumvik / Guides / Working with an offshore developer: what to agree up front
+
+# Working with an offshore developer: what to agree up front
+How agencies can get the cost and time-zone benefits of an offshore partner without the usual problems.
+By Jay, founder of Lumvik Solutions · November 2026
+Offshore development has a mixed reputation, and much of it is earned: missed deadlines, silence for days, work that doesn't match the design. Almost all of it comes from things that weren't agreed at the start. Agree these five and most of the risk disappears.
+
+## 1. A fixed scope and price, in writing
+Before any work starts, get the pages, features, number of review rounds and the price written down. Anything new after that is quoted separately before it's built.
+
+## 2. How and when you'll hear from them
+Agree an update rhythm: for example, a short written update at the end of each working day. Silence is the earliest warning sign, and a clear rhythm removes it.
+
+## 3. Use the time difference on purpose
+From India, the working day overlaps with a US night. Used well, that means you send feedback in your evening and find progress in your morning. Used badly, it means waiting a full day for every question. Batch your feedback and make it specific.
+
+## 4. Who owns the code, and when
+The code should become yours, in full, once the final invoice is paid, delivered to your own repository or hosting. Avoid arrangements where only the developer can deploy or edit.
+
+## 5. Start small
+Run a single landing page as a paid test before handing over a full client site. You'll learn more about quality and communication in one week than from any portfolio. This is exactly how Lumvik works: fixed quotes, daily updates and full code ownership. Start with a small project .
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/
+Title: White-Label Web Development for Agencies | Lumvik Solutions
+
+J Jay, founder, with a small team of engineers in India and the US.
+
+# You win the client. We build the site.
+Lumvik is a white-label web development studio for marketing agencies. Send your brief at the end of your day. Our team in India works through your night, so agreed work keeps moving while yours is offline. Tell us what you're building See the work Fixed quotes before work starts White-label by default You own all the code
+Start here Pick the closest
+
+## What do you need?
+
+### I have a design that needs building.
+A finished Figma or PDF, turned into a fast, working site. From $599. →
+
+### I need a landing page this week.
+A campaign or offer page with your tracking and form wired up. From $249. →
+
+### My team is at capacity.
+Extra development hands for one project or every month. Quoted per project. →
+
+### A client's site is slow or dated.
+Rebuilt on modern code, keeping its content and rankings. Quoted per site. →
+Prefer to browse first? All services and prices or estimate the cost .
+Proof Selected work Our own product
+
+### Slidezza
+An AI presentation maker we designed, built and run. Describe a topic and it plans an editable outline, then writes and designs the deck card by card.
+- Accounts, credits and Stripe subscription billing
+- 7 card layouts, switchable themes and present mode
+- Share links and PDF export
+- Next.js, Prisma and the Claude API Read the case Visit Slidezza Concept site
+
+### Northpeak Marketing
+A complete website for a fictional Austin marketing agency, built to the standard we deliver for agency clients.
+- Next.js, TypeScript and Tailwind, on Vercel
+- Mobile menu, case study, FAQ and validated enquiry form
+- No layout overflow from 375px phones to wide desktops
+- 44px touch targets and full keyboard support Read the case Open the live site
+Why agencies choose Lumvik Six reasons
+
+## Built to make you look good in front of your client.
+
+### Fixed price, before we start
+You get one written quote with the scope, price and delivery date. It doesn't change unless you change the scope, so you can quote your client with confidence.
+
+### Invisible to your client
+No Lumvik name in the code, footer or files, and we never contact your client. Your agency stays the face of the project from start to finish.
+
+### Work that moves overnight
+Our India team works through the US night. Send feedback at the end of your day and find progress waiting in the morning, instead of losing a day per round.
+
+### A named lead, not a ticket queue
+One person owns your project from brief to handover and sends a written update every working day. You always know what's done and what's next.
+
+### Code you own outright
+Clean, readable code in your own repository or hosting once the invoice is paid. No lock-in, no licence fees, no developer you depend on forever.
+
+### Small first project, low risk
+Start with one landing page. If the quality or communication isn't right, you've lost very little, and you've learned it in a week.
+How we're different India to US
+
+## Your night is our working day.
+We're about 11 hours ahead of Austin. Your brief arrives as our day starts, and progress is waiting when yours does.
+
+### Today, live
+Shown in Austin time Your team – CT Your working day Lumvik – IST We build We build 12 am 6 am 12 pm 6 pm 12 am
+End of your daySend the brief or a list of changes.
+While you sleepWe build and test on desktop and mobile.
+Next morningA progress update in your inbox, often with a preview link.
+Who you work with Founder-led J . No account managers. No handoffs. You talk to the people writing your code.
+Jay, founder of Lumvik SolutionsI read every brief and lead every project, working with engineers from NIT Rourkela and IIT Goa and developers in the US. You get daily updates, and if something is going to slip, you hear it from me first. Start with one small project and judge for yourself.
+What we build Starting prices
+
+## Four services, done properly.
+Every project gets one fixed quote after we read the brief. Full pricing
+
+### Landing pages
+Campaign and offer pages built from your design, fast on mobile and ready for your tracking tags.
+From $249 Up to 8 sections
+
+### Business websites
+Multi-page sites for your clients, with clean structure, basic SEO setup and an editable handover.
+From $599 Up to 5 pages
+
+### Redesigns
+Rebuild a slow or dated site on modern code while keeping its content and search rankings.
+Quoted per site After a quick review
+
+### Overflow support
+Extra development hands when your team is at capacity, for one project or on a regular basis.
+Quoted per project White-label by default
+Quality In every build
+
+## What every build includes.
+The standard every project meets before you see the first preview, whatever its size or price.
+
+### Responsive
+Layouts checked at phone, tablet and desktop widths, with no sideways scrolling and tap targets sized for thumbs.
+
+### Fast
+Compressed images, minimal scripts and no heavy page builders. We check page speed before you see the first preview.
+
+### Accessible
+Semantic markup, visible keyboard focus, readable contrast and form errors that screen readers announce.
+
+### Search-ready
+Unique page titles and descriptions, a sitemap, robots.txt, social preview images and redirects for any changed URLs.
+
+### Forms that work
+Every form is submitted and checked end to end, so enquiries reach the right inbox or CRM from launch day.
+
+### Clean handover
+Readable code in your repository, deployed to your hosting, with a short note on how to make common edits.
+Process Same every time
+
+## How a project runs.
+-
+
+### Brief
+Send the design file, copy and any must-haves. Figma, a PDF or a rough sketch all work.
+-
+
+### Quote
+Scope, price and a delivery date agreed in writing before any work starts.
+-
+
+### Build
+Built in Next.js or clean HTML, with progress on a private preview link.
+-
+
+### Review
+You check it on desktop and phone. Two rounds of changes are included.
+-
+
+### Handover
+Deployed to your hosting or handed over as code. Yours, unbranded.
+Compared Your options
+
+## Lumvik, a freelancer or a new hire?
+Each has its place. Here's an honest comparison for agencies weighing up extra development capacity.
+| | Lumvik | Freelance marketplace | Hiring in-house
+| Price | Fixed quote per project | Varies widely; hourly is common | Full salary, benefits and tools
+| Time to start | Quote within one working day | Days of interviews and trials | Weeks to months to hire
+| White-label | By default, NDA on request | Depends on the person | Yes
+| Cover when someone is away | A small team behind every project | Usually one person | Depends on team size
+| Updates | Written, every working day | Depends on the person | Daily, in person
+| Cost when there's no work | Nothing | Nothing | Full salary
+Questions Before you ask
+
+## What agencies ask us.
+Will my client know you built it?
+No. We never contact your client, never add our name to the site or code, and are happy to sign your NDA.
+Who owns the code?
+You do, in full, once the final invoice is paid. We hand over the repository or deploy straight to your hosting.
+How do payments work?
+We invoice in US dollars: 50% to start and 50% on handover. Larger projects can be split into milestones.
+What if something breaks after launch?
+Every build includes 14 days of free fixes for anything that doesn't match the agreed scope.
+Can we try one small project first?
+Yes, and we recommend it. Start with a single landing page and judge the quality and communication for yourself.
+Who does the work?
+Jay, our founder, leads every project, working with engineers from NIT Rourkela and IIT Goa and developers in the US. One named lead stays with your project from brief to handover.
+How fast do you reply?
+Within one working day, and usually much faster. Quotes for most briefs arrive within one working day too.
+What do you build with?
+Mostly Next.js, React and Tailwind CSS, deployed on Vercel, or clean static HTML when that suits the project better. We don't currently build on WordPress or Shopify.
+More in Answers .
+Start here Fixed quote in one working day
+
+## Tell us what you're building.
+Send a brief or a design file. You'll get one fixed price and a delivery date, usually within one working day. Send a brief Estimate the cost Or email lumvik.solutions@gmail.com
+
+---
+
+URL: https://lumvik-solutions.vercel.app/privacy.html
+Title: Privacy Policy | Lumvik Solutions
+
+Lumvik / Privacy
+
+# Privacy
+Last updated November 2026
+This site doesn't use analytics, advertising trackers or cookies of its own. Fonts are loaded from Google Fonts, which receives your IP address to deliver them.
+
+## What we collect
+Only what you send us by email, including through the brief form, which opens your own email app. That's usually your name, work email, company and project details.
+
+## How we use it
+To reply to you, prepare quotes and deliver projects. We don't sell or share it, and we don't add you to mailing lists.
+
+## How long we keep it
+As long as needed for the project and our accounting records, then we delete it. Ask any time and we'll delete or export what we hold about you.
+
+## Contact
+Email lumvik.solutions@gmail.com .
+
+---
+
+URL: https://lumvik-solutions.vercel.app/terms.html
+Title: Terms of Work | Lumvik Solutions
+
+Lumvik / Terms
+
+# Terms
+Last updated November 2026
+These are the standard terms behind every Lumvik quote. Anything agreed differently in a written quote takes priority.
+
+## Quotes and scope
+Each project has a written quote listing the scope, price, review rounds and delivery date. Work outside that scope is quoted separately before it starts.
+
+## Payment
+Invoiced in US dollars. 50% is due before work starts and 50% on handover, unless the quote sets other milestones.
+
+## Ownership
+Once the final invoice is paid, all code and project files we create for you are yours. We may keep a private copy for support during the fix period. We only show your project publicly with your written permission.
+
+## Confidentiality
+We keep your project, your clients and your materials confidential, and will sign your NDA on request.
+
+## Fixes and support
+Each build includes 14 days of free fixes for anything that doesn't match the agreed scope. Support after that is available at an agreed rate.
+
+## Contact
+Questions about these terms: lumvik.solutions@gmail.com .

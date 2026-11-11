@@ -1,0 +1,52 @@
+{
+ "headers": [
+  {
+   "source": "/(.*)",
+   "headers": [
+    {
+     "key": "X-Content-Type-Options",
+     "value": "nosniff"
+    },
+    {
+     "key": "Referrer-Policy",
+     "value": "strict-origin-when-cross-origin"
+    },
+    {
+     "key": "X-Frame-Options",
+     "value": "SAMEORIGIN"
+    },
+    {
+     "key": "Permissions-Policy",
+     "value": "camera=(), microphone=(), geolocation=()"
+    }
+   ]
+  },
+  {
+   "source": "/img/(.*)",
+   "headers": [
+    {
+     "key": "Cache-Control",
+     "value": "public, max-age=2592000, stale-while-revalidate=86400"
+    }
+   ]
+  },
+  {
+   "source": "/(og-image.png|logo.png|icon-192.png|apple-touch-icon.png|favicon.ico|favicon.svg)",
+   "headers": [
+    {
+     "key": "Cache-Control",
+     "value": "public, max-age=604800"
+    }
+   ]
+  },
+  {
+   "source": "/(llms.txt|llms-full.txt)",
+   "headers": [
+    {
+     "key": "Content-Type",
+     "value": "text/plain; charset=utf-8"
+    }
+   ]
+  }
+ ]
+}

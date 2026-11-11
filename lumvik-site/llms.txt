@@ -1,0 +1,48 @@
+# Lumvik Solutions
+
+> Lumvik Solutions is a white-label web development studio, founded in 2026 by Jay, with engineers in India and developers in the US. It builds landing pages, business websites and redesigns for design and marketing agencies in the US, UK, Canada, Australia and Europe, under the agency's name, for a fixed price agreed before work starts.
+
+Key facts:
+
+- Landing pages from $249 (up to 8 sections, typically 3 to 5 working days); business websites from $599 (up to 5 pages, typically 1 to 2 weeks); redesigns and monthly overflow support quoted per project.
+- Fixed quotes in US dollars; 50% to start, 50% on handover; 14 days of fixes after launch; the agency owns the code once paid.
+- White-label by default: no Lumvik branding in code or files, no contact with the agency's client, NDA on request.
+- Stack: Next.js, React, TypeScript, Tailwind CSS, Vercel, or clean static HTML. No WordPress or Shopify builds.
+- India-based engineers work through the US night, so feedback sent at the end of a US day is worked on overnight.
+- Contact: lumvik.solutions@gmail.com. Replies within one working day.
+
+## Services
+
+- [White-Label Web Development Services](https://lumvik-solutions.vercel.app/services.html): Landing pages, business websites, redesigns and overflow development, built under your agency's name from your designs, at a fixed price agreed upfront.
+- [White-Label Landing Page Development](https://lumvik-solutions.vercel.app/landing-pages.html): Fast, responsive landing pages built from your Figma or PDF design, with forms and tracking wired up. From $249, typically delivered in 3 to 5 working days.
+- [White-Label Website Development for Agencies](https://lumvik-solutions.vercel.app/business-websites.html): Multi-page business websites built from your agency's design in Next.js or clean HTML, SEO-ready and handed over in your repo. From $599 for up to 5 pages.
+- [Website Redesign Development for Agencies](https://lumvik-solutions.vercel.app/redesigns.html): Rebuild a slow or dated client site from your new design without losing search traffic: content moved, old URLs redirected, speed checked. Fixed quote.
+- [Overflow Web Development Support for Agencies](https://lumvik-solutions.vercel.app/overflow-support.html): Extra development capacity for agencies with more projects than developer hours. Start with one paid trial project, then add a fixed monthly capacity.
+
+## Working with Lumvik
+
+- [Outsourced Web Development for Agencies](https://lumvik-solutions.vercel.app/agencies.html): How Lumvik works as your white-label development partner: NDA on request, no contact with your clients, daily written updates and code you fully own.
+- [White-Label Web Development Pricing](https://lumvik-solutions.vercel.app/pricing.html): Landing pages from $249, business websites from $599, redesigns and monthly overflow support quoted per project. Fixed quotes in US dollars, 50% upfront.
+- [Website Cost Estimator for Agencies](https://lumvik-solutions.vercel.app/estimator.html): Estimate what a white-label landing page, business website or redesign will cost in seconds, based on pages, forms, languages and how fast you need it.
+- [White-Label Web Development FAQ](https://lumvik-solutions.vercel.app/answers.html): Straight answers on white-label web development with Lumvik: who does the work, NDAs, code ownership, payments, timelines, time zones and support.
+- [About Lumvik Solutions](https://lumvik-solutions.vercel.app/about.html): Lumvik Solutions is a founder-led web studio, started in 2026 by Jay, with engineers in India and developers in the US building for agencies worldwide.
+- [Start a Project](https://lumvik-solutions.vercel.app/contact.html): Send Lumvik your design or brief and get one fixed price and delivery date, usually within one working day. Landing pages, websites and redesigns.
+
+## Work
+
+- [Web Development Work and Case Studies](https://lumvik-solutions.vercel.app/work.html): Projects by Lumvik Solutions, labelled honestly: Slidezza, a live SaaS product we built and run, and Northpeak, a marketing agency website demo build.
+- [Slidezza Case Study: Next.js SaaS Build](https://lumvik-solutions.vercel.app/work-slidezza.html): How Lumvik designed, built and runs Slidezza, a slide deck SaaS made with Next.js, Prisma, Stripe and the Claude API. Screens, stack and build decisions.
+- [Northpeak Demo: Marketing Agency Website](https://lumvik-solutions.vercel.app/work-northpeak.html): A demo marketing agency website built in Next.js 16 and Tailwind CSS: responsive layout, working contact form and clearly labelled illustrative results.
+
+## Guides
+
+- [Guides for Agencies Outsourcing Web Development](https://lumvik-solutions.vercel.app/guides.html): Practical guides for agencies that work with outside developers: how to brief a build, what to check before launch, and working across time zones.
+- [How to Brief a White-Label Web Developer](https://lumvik-solutions.vercel.app/guide-briefing.html): What to send a white-label developer so the first build matches your design: files, copy, assets, hosting details and a single approver on your side.
+- [Website Launch Checklist for Agencies](https://lumvik-solutions.vercel.app/guide-launch-checklist.html): The checks to run before a client site goes live: responsive layouts, forms, speed, SEO basics, redirects, tracking, accessibility and a clean handover.
+- [Working With an Offshore Web Developer](https://lumvik-solutions.vercel.app/guide-offshore.html): What agencies should agree up front with an offshore web developer: scope, price, updates, time-zone overlap, code ownership, NDAs and what happens if it slips.
+
+## Optional
+
+- [Privacy policy](https://lumvik-solutions.vercel.app/privacy.html)
+- [Terms of work](https://lumvik-solutions.vercel.app/terms.html)
+- [Full site text](https://lumvik-solutions.vercel.app/llms-full.txt)

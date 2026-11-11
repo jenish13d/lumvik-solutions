@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Contact · Lumvik</title>
+<meta name="description" content="Send Lumvik Solutions a project brief and get a fixed quote with a delivery date.">
+<meta property="og:title" content="Contact · Lumvik">
+<meta property="og:description" content="Send Lumvik Solutions a project brief and get a fixed quote with a delivery date.">
+<meta name="theme-color" content="#0E1220">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230E1220'/%3E%3Ctext x='16' y='23' font-family='Georgia' font-size='20' fill='%23F2B880' text-anchor='middle'%3EL%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&family=Instrument+Serif&display=swap">
+<link rel="stylesheet" href="site.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="mark" href="index.html">Lumvik<span>.</span></a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+    <nav class="nav" id="nav" aria-label="Main"><a href="agencies.html">For agencies</a><a href="work.html">Work</a><a href="pricing.html">Pricing</a><a href="about.html">About</a><a class="btn btn-dawn" href="contact.html">Start a project</a></nav>
+  </div>
+</header>
+<main>
+
+<section class="hero sec-first"><div class="wrap">
+  <h1 class="h-xl">Start a project</h1>
+  <p class="lede">Tell us what you need. You'll get a fixed quote and a delivery date, usually within one working day.</p>
+</div></section>
+<section class="sec" style="border-top:0;padding-top:0"><div class="wrap">
+  <div class="two">
+    <form class="form" id="brief" novalidate>
+      <div class="grid2">
+        <label class="field" for="name">Your name<input id="name" name="name" autocomplete="name" aria-describedby="name-err"><span class="err" id="name-err" aria-live="polite"></span></label>
+        <label class="field" for="company">Agency or company<input id="company" name="company" autocomplete="organization"></label>
+      </div>
+      <div class="grid2">
+        <label class="field" for="email">Work email<input id="email" name="email" type="email" autocomplete="email" aria-describedby="email-err"><span class="err" id="email-err" aria-live="polite"></span></label>
+        <label class="field" for="website">Website<input id="website" name="website" type="url" placeholder="https://" autocomplete="url"></label>
+      </div>
+      <div class="grid2">
+        <label class="field" for="type">Project type<select id="type" name="type"><option>Landing page</option><option>Business website</option><option>Redesign</option><option>Overflow support</option><option>Something else</option></select></label>
+        <label class="field" for="budget">Budget<select id="budget" name="budget"><option>Under $500</option><option>$500 to $1,500</option><option>$1,500 to $5,000</option><option>Not sure yet</option></select></label>
+      </div>
+      <label class="field" for="timeline">Timeline<select id="timeline" name="timeline"><option>This week</option><option>Within 2 weeks</option><option>This month</option><option>Flexible</option></select></label>
+      <label class="field" for="details">Project details<textarea id="details" name="details" placeholder="What are we building, and is there a design file?" aria-describedby="details-err"></textarea><span class="err" id="details-err" aria-live="polite"></span></label>
+      <div><button class="btn btn-dawn" type="submit">Email this brief</button></div>
+      <p class="note">This opens your email app with the brief filled in, addressed to lumvik.solutions@gmail.com. Press send there.</p>
+      <p class="ok" id="sent-note" hidden role="status">Your email app should be open with the brief ready to send.</p>
+    </form>
+    <aside class="mailbox">
+      <h2 class="h-m">Prefer plain email?</h2>
+      <span class="addr">lumvik.solutions@gmail.com</span>
+      <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap"><button class="btn btn-line" type="button" data-copy="lumvik.solutions@gmail.com">Copy email</button><span class="ok" data-copied hidden>Copied</span></div>
+      <p class="note">Attach a design file or link, and mention your deadline. We reply within one working day.</p>
+    </aside>
+  </div>
+</div></section>
+
+</main>
+<footer class="foot">
+  <div class="wrap">
+    <span>© 2026 Lumvik Solutions. Web development studio based in India, working with agencies in the US and worldwide.</span>
+    <nav aria-label="Footer"><a href="agencies.html">For agencies</a><a href="work.html">Work</a><a href="pricing.html">Pricing</a><a href="about.html">About</a><a href="contact.html">Contact</a></nav>
+  </div>
+</footer>
+<script src="site.js"></script>
+</body>
+</html>
